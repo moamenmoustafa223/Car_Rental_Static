@@ -109,7 +109,7 @@ const CarDeltails = ({car}) => {
           <img src={logoImage} className='img-fluid me-2' alt="" />
             <h4 className={`${CarDeltailsStyles.vendorName} m-0`}>EuroLine</h4>
           </div>
-          <Link className=" btnCustom btnFilled rounded-4 px-5" >about the vendor</Link>
+          <Link className=" btnCustom btnFilled rounded-4 px-4 text-nowrap " >about vendor</Link>
 
           </div>
       </div>
